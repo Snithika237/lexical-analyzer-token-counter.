@@ -1,0 +1,10 @@
+TOKEN COUNT
+----------------------------------
+Keyword         : 3
+Identifier      : 5
+Operator        : 4
+Constant        : 2
+String Literal  : 0
+Separator       : 3
+Comment         : 0
+Special Symbol  : 0
